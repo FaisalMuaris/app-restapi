@@ -5,4 +5,5 @@ module.exports = function (app) {
 
   app.route("/").get(jsonKu.index);
   app.route("/mahasiswa").get(jsonKu.tampilMahasiswa);
+  app.route("/mahasiswa/:id").get(jsonKu.detailMahasiswa);
 };
