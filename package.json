@@ -1,0 +1,24 @@
+{
+  "name": "app-restapi",
+  "version": "1.0.0",
+  "description": "latihan rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaisalMuaris/app-restapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "de aris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaisalMuaris/app-restapi/issues"
+  },
+  "homepage": "https://github.com/FaisalMuaris/app-restapi#readme"
+}
